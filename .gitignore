@@ -22,3 +22,22 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Node.js
+node_modules/
+dist/
+
+# Astro
+.astro/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCODE
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
